@@ -33,6 +33,11 @@ self.__BUILD_MANIFEST = {
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/auth/signout.js"
+    ],
+    "/auth/signup": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/auth/signup.js"
     ]
   },
   "ampFirstPages": []
