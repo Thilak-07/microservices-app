@@ -29,11 +29,6 @@ self.__BUILD_MANIFEST = {
       "static/chunks/main.js",
       "static/chunks/pages/auth/signin.js"
     ],
-    "/auth/signout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/auth/signout.js"
-    ],
     "/auth/signup": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
